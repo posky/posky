@@ -9,11 +9,11 @@
 # Repositories:
 ##### 데이터 분석해 보기
 * 내용: 다양한 데이터 셋을 기본 EDA부터 기본모델까지 만들어보기
-* 해당 저장소로 [이동하기](https://github.com/posky/Data_Analysis)
+* 해당 저장소 [이동](https://github.com/posky/Data_Analysis)
 ----
 ##### 머신러닝 클래스
 * 내용: 광주 ICT 이노베이션 스퀘어 머신러닝 강의
-* 해당 저장소로 [이동하기](https://github.com/posky/AI-lecture)
+* 해당 저장소 [이동](https://github.com/posky/AI-lecture)
 
 
 
