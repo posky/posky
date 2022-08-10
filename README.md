@@ -6,6 +6,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=posky&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=posky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ----
+# Repositories:
 ##### 데이터 분석해 보기
 * 내용: 다양한 데이터 셋을 기본 EDA부터 기본모델까지 만들어보기
 * 해당 저장소로 [이동하기](https://github.com/posky/Data_Analysis)
