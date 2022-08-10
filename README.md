@@ -1,4 +1,17 @@
-### Hi there 👋
+## posky
+----
+####🔭 I’m currently working on ...
+##### 데이터 분석해 보기
+내용: 다양한 데이터 셋을 기본 EDA부터 기본모델까지 만들어보
+[저장소](https://github.com/posky/Data_Analysis)
+----
+####🌱 I’m currently learning ...
+----
+##### 머신러닝 클래스
+내용: 광주 ICT 이노페이션 스퀘어 머신러닝 강의
+[저장소](https://github.com/posky/AI-lecture)
+
+
 
 <!--
 **posky/posky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
