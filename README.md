@@ -16,7 +16,7 @@
 * 해당 저장소 [이동](https://github.com/posky/AI-lecture)
 ----
 ##### Object Detection Study
-* 내용: Object Detection 이론과 코딩까지 해보기
+* 내용: Object Detection 이론을 공부하고 코딩까지 해보기
 * 해당 저장소 [이동](https://github.com/posky/object_detection)
 
 
