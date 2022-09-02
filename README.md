@@ -18,6 +18,7 @@
 ##### kaggle 대회
 * 내용: kaggle 대회
 * 해당 저장소 [이동](https://github.com/posky/kaggle)
+----
 ##### Object Detection Study
 * 내용: Object Detection 이론을 공부하고 코딩까지 해보기
 * 해당 저장소 [이동](https://github.com/posky/object_detection)
