@@ -7,7 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=posky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ----
 # Dev Notion
-* [Notion](https://hypnotic-canid-f79.notion.site/5a9625bbd9fb49279efe4c07b39300c2?v=f9501e0bda204736aa2c13681f6e3e57)
+* [Notion](https://posky55.notion.site/5a9625bbd9fb49279efe4c07b39300c2?v=f9501e0bda204736aa2c13681f6e3e57)
 # Repositories:
 ##### 데이터 분석해 보기
 * 내용: 다양한 데이터 셋을 기본 EDA부터 기본모델까지 만들어보기
