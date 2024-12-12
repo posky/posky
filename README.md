@@ -5,26 +5,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=posky&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=posky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ----
-# Dev Notion
-* [Notion](https://posky55.notion.site/5a9625bbd9fb49279efe4c07b39300c2?v=f9501e0bda204736aa2c13681f6e3e57)
-# Repositories:
-##### 데이터 분석해 보기
-* 내용: 다양한 데이터 셋을 기본 EDA부터 기본모델까지 만들어보기
-* 해당 저장소 [이동](https://github.com/posky/Data_Analysis)
-----
-##### 머신러닝 클래스
-* 내용: 광주 ICT 이노베이션 스퀘어 머신러닝 강의
-* 해당 저장소 [이동](https://github.com/posky/AI-lecture)
-----
-##### kaggle 대회
-* 내용: kaggle 대회
-* 해당 저장소 [이동](https://github.com/posky/kaggle)
-----
-##### Object Detection Study
-* 내용: Object Detection 이론을 공부하고 코딩까지 해보기
-* 해당 저장소 [이동](https://github.com/posky/object_detection)
-
-
 
 <!--
 **posky/posky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
